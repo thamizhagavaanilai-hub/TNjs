@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+geopandas
+xarray
+scipy
+ecmwf-opendata
+cfgrib
+eccodes
+reportlab
+shapely
+pyogrio
+fiona
